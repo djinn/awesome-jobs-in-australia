@@ -36,33 +36,32 @@ These are your foundation job search resources. All aggregate positions from hun
 These are the most actively hiring international companies in Australia with offices/teams:
 
 **Google**
-- [Google Australia Careers](https://careers.google.com/locations/australia/) - Sydney office, hiring for eng, sales, ops
+- [Google Australia Careers](https://www.google.com/about/careers/applications/jobs/results/?location=Australia) - Sydney office, hiring for eng, sales, ops
 - Roles: Software Engineer, Product Manager, Sales, UX Designer, Data Analyst
 - Visa sponsorship: Available
 
 **Amazon / AWS**
-- [Amazon Australia](https://www.amazon.jobs/en/locations/australia) - Sydney + Melbourne
-- [AWS Careers Australia](https://www.amazon.jobs/en/teams/aws) - Dedicated cloud computing jobs
+- [Amazon Australia and AWS Australia](https://www.amazon.jobs/en/search?base_query=&loc_query=Australia&country=AUS) - Sydney + Melbourne
 - Roles: Cloud Engineer, Solutions Architect, Data Engineer, DevOps, Product Manager
 - Visa sponsorship: Available
 
 **Microsoft**
-- [Microsoft Australia](https://careers.microsoft.com/us/en/locations/australia) - Sydney, Melbourne
+- [Microsoft Australia](https://apply.careers.microsoft.com/careers?start=0&location=Australia&pid=1970393556748463&sort_by=match&filter_include_remote=1) - Sydney, Melbourne
 - Roles: Cloud Solutions Architect, Software Engineer, Data Scientist, Product Manager
 - Visa sponsorship: Available
 
 **Meta (Facebook)**
-- [Meta Careers Australia](https://www.metacareers.com) - Sydney, growing presence
+- [Meta Careers Australia](https://www.metacareers.com/jobsearch?q=Australia) - Sydney, growing presence
 - Roles: Software Engineer, Data Scientist, Product Manager, Sales
 - Visa sponsorship: Available
 
 **Apple**
-- [Apple Careers Australia](https://jobs.apple.com) - Retail + corporate roles
+- [Apple Careers Australia](https://jobs.apple.com/en-au/search?location=australia-AUSC) - Retail + corporate roles
 - Roles: Retail, Sales, Tech Support, Corporate functions
 - Visa sponsorship: Limited
 
 **Other FAANG**
-- [IBM Australia](https://www.ibm.com/au-en/careers) - Melbourne HQ
+- [IBM Australia](https://www.ibm.com/au-en/careers/search?field_keyword_05[0]=Australia) - Melbourne HQ
 - [Oracle Australia](https://careers.oracle.com) - Sydney + Melbourne
 - [Salesforce Australia](https://salesforce.wd1.myworkdayjobs.com/en-US/Salesforce_Careers) - Sydney office
 
